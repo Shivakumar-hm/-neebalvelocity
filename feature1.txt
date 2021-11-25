@@ -1,1 +1,2 @@
 fixed feature1
+int a = 10
