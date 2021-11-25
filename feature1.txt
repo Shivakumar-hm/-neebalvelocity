@@ -1,1 +1,2 @@
 fixed feature1
+double x=3.33
